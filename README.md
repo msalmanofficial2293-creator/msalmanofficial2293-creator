@@ -610,7 +610,7 @@ Database Validation
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=msalmanofficial2293&hide_border=true&theme=transparent"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=msalmanofficial2293-creator&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -620,7 +620,7 @@ Database Validation
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalmanofficial2293&bg_color=ffffff00&color=00aaff&line=00aaff&point=111827&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalmanofficial2293-creator&bg_color=ffffff00&color=00aaff&line=00aaff&point=111827&area=true&hide_border=true" width="95%"/>
 
 </div>
 
