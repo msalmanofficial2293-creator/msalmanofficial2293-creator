@@ -1,202 +1,437 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Salman
-
-### Software Quality Assurance Engineer | 2+ Years Experience
-
-**Manual Testing · API Testing · Automation · Mobile Testing · FinTech & Trading QA**
-
-I build confidence in software through structured testing, real-world workflow validation, API testing, automation, mobile testing, and detailed defect reporting.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MUHAMMAD%20SALMAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer%20%7C%202%2B%20Years%20Experience&descSize=18&descAlignY=58&color=0:050B14,50:0B1F35,100:0077FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://msalman-sqa.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0077FF?style=for-the-badge&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/msalman-sqa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:m.salmanofficial2293@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=msalmanofficial2293-creator&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=msalmanofficial2293&style=for-the-badge&color=0077FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Profile
+# 🧪 Professional Profile
 
-I'm a **Software Quality Assurance Engineer with 2+ years of experience** working across web applications, mobile applications, APIs, FinTech platforms, trading platforms, AI products, and e-commerce systems.
+<table>
+<tr>
+<td width="55%">
 
-My QA approach focuses on understanding requirements, validating real-world workflows, identifying edge cases, reporting defects clearly, and ensuring fixes are properly retested before release.
+### 👋 Hi, I'm Muhammad Salman
 
-### What I Do
+I'm a **Software Quality Assurance Engineer with 2+ years of experience** working across web applications, mobile applications, APIs, FinTech platforms, prop trading platforms, AI products, and e-commerce systems.
+
+My focus is not only finding bugs — I work on understanding requirements, validating real-world workflows, identifying edge cases, communicating defects clearly, and helping teams deliver reliable and user-friendly products.
+
+### 🎯 QA Focus
 
 - Manual & Functional Testing
-- Regression & Smoke Testing
 - API Testing
-- UI/UX Testing
-- Responsive & Cross-Browser Testing
-- Mobile Application Testing
-- Automation Testing
+- Web & Mobile Testing
+- Test Automation
+- UI/UX Validation
+- Regression & Retesting
 - Negative & Boundary Testing
-- Authentication & Authorization Testing
-- Payment & Financial Workflow Testing
+- FinTech & Trading QA
+- Payment & KYC Workflows
 - Bug Reporting & Documentation
-- Retesting & Release Validation
+
+</td>
+
+<td width="45%">
+
+### 📊 QA Snapshot
+
+| | |
+|---|---|
+| 🧪 **Experience** | **2+ Years** |
+| 🌐 **Web QA** | Experienced |
+| 📱 **Mobile QA** | Experienced |
+| 🔌 **API Testing** | Experienced |
+| 🤖 **Automation** | Playwright · Cypress · Maestro |
+| 📈 **Trading QA** | Prop Trading Platforms |
+| 💳 **FinTech QA** | Financial Workflows |
+| 🐛 **Defect Management** | Jira · ClickUp |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Core QA Specializations
+# ⚡ Core QA Specializations
 
-| Area | Expertise |
-|:--|:--|
-| 🖥️ Web Testing | Functional · UI · Responsive · Cross-Browser |
-| 📱 Mobile Testing | Android · Emulator · Device Validation · Regression |
-| 🔌 API Testing | REST APIs · Authentication · Status Codes · Request/Response Validation |
-| 🤖 Automation | Playwright · Cypress · Maestro · JavaScript |
-| 💳 FinTech QA | Payments · KYC · Financial Workflows · Validation |
-| 📈 Trading QA | Prop Trading · Challenge Rules · Risk Monitoring · Trading Workflows |
-| 🔐 Security QA | Authentication · Authorization · Input Validation · Security Checks |
-| 🐛 Defect Management | Bug Reporting · Severity/Priority · Retesting · Regression |
-| 🧩 UI/UX QA | Figma Comparison · Layout · Typography · Spacing · Responsive Design |
+<table>
+<tr>
 
----
+<td width="33%" align="center">
 
-# 🚀 Selected QA Projects
+### 🌐 Web QA
 
-<details>
-<summary><b>📈 Trading & FinTech Projects</b></summary>
+Functional Testing  
+Regression Testing  
+Smoke Testing  
+Responsive Testing  
+Cross-Browser Testing  
+UI/UX Validation
 
-<br/>
+</td>
 
-| Project | Testing Focus |
-|:--|:--|
-| **Alpha Props** | Prop Trading · Functional Testing · UI/UX · Payments · Trading Rules · Risk Workflows |
-| **Apex Props** | Prop Trading · Functional Testing · KYC · Payments · Trading Rules · Admin Panel |
-| **CoreX Funding** | Prop Trading · Functional Testing · Authentication · Trading Rules · UI/UX |
-| **Primate Props** | Prop Trading · Checkout · Payment Testing · Form Validation · UI/UX |
-| **National AG Finance** | FinTech · Financial Workflows · Functional Testing · API Testing |
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Web Applications</b></summary>
-
-<br/>
-
-| Project | Testing Focus |
-|:--|:--|
-| **Zanderio AI** | AI Agent Workflows · Functional Testing · UI/UX · API Testing · Edge Cases |
-| **Hommeze AI** | Web/Mobile · UI Testing · Functional Testing · Responsive Testing |
-| **E-commerce Platforms** | Product · Cart · Checkout · Payments · Validation · Responsive Testing |
-
-</details>
-
-<details>
-<summary><b>📱 Mobile Applications</b></summary>
-
-<br/>
-
-| Project | Testing Focus |
-|:--|:--|
-| **Guest Pass** | Gym Pass Mobile App · Android Testing · Functional Testing · API/Error Validation |
-| **Gym Management App** | Mobile UI · Functional Workflows · Device Validation · Regression |
-| **Firebase-Based Mobile App** | Authentication · Database Workflows · Mobile UI · Backend Validation |
-| **Hommeze AI Mobile** | Mobile UI · Navigation · Functional Testing · Device Validation |
-
-</details>
-
----
-
-## 🔥 Selected Testing Highlights
-
-### 📈 Trading & Financial QA
-
-Prop Trading Platforms · Trading Workflows · Challenge/Evaluation Flows · Risk Monitoring · KYC · Payments · Refunds · Admin Panels · Authentication · Authorization
-
-### 🔌 API & Backend Testing
-
-REST API Testing · Authentication · Access Tokens · Request/Response Validation · HTTP Status Codes · Negative Testing · Error Handling
+<td width="33%" align="center">
 
 ### 📱 Mobile QA
 
-Android Testing · Emulator Testing · Maestro · Mobile UI · Navigation · Device Validation · Authentication · Backend Integration
+Android Testing  
+Emulator Testing  
+Maestro  
+Device Validation  
+Mobile UI Testing  
+Regression Testing
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔌 API QA
+
+REST APIs  
+Postman  
+Authentication  
+Access Tokens  
+Response Validation  
+Error Handling
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 📈 Trading QA
+
+Prop Trading  
+Challenge Rules  
+Risk Monitoring  
+KYC  
+Payments  
+Refunds
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🤖 Automation
 
-Playwright · Cypress · Maestro · JavaScript · Node.js · Automated Regression Support
+Playwright  
+Cypress  
+Maestro  
+JavaScript  
+Node.js  
+Automated Regression
 
-### 🐛 Quality Engineering
+</td>
 
-Functional Testing · Regression Testing · Smoke Testing · Sanity Testing · Exploratory Testing · Negative Testing · Boundary Testing · Bug Reporting · Retesting
+<td width="33%" align="center">
+
+### 🎨 UI/UX QA
+
+Figma Comparison  
+Layout Testing  
+Typography  
+Spacing  
+Responsive Design  
+Usability
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 Trading & FinTech QA
+
+> **Real-world QA experience across trading, financial and prop-firm platforms.**
+
+<table>
+<tr>
+<th>Project</th>
+<th>Domain</th>
+<th>QA Coverage</th>
+</tr>
+
+<tr>
+<td><b>🔵 Alpha Props</b></td>
+<td>Prop Trading</td>
+<td>Functional · Trading Rules · Payments · Risk · UI/UX · Admin</td>
+</tr>
+
+<tr>
+<td><b>🔵 Apex Props</b></td>
+<td>Prop Trading</td>
+<td>KYC · Payments · Trading Rules · Admin · Validation · UI/UX</td>
+</tr>
+
+<tr>
+<td><b>🔵 CoreX Funding</b></td>
+<td>Prop Trading</td>
+<td>Authentication · Trading Rules · Functional · UI/UX · Careers</td>
+</tr>
+
+<tr>
+<td><b>🔵 Primate Props</b></td>
+<td>Prop Trading</td>
+<td>Checkout · Payments · Form Validation · Functional · UI/UX</td>
+</tr>
+
+<tr>
+<td><b>🟢 National AG Finance</b></td>
+<td>FinTech</td>
+<td>Financial Workflows · API Testing · Functional · Integration</td>
+</tr>
+
+</table>
+
+---
+
+# 📱 Mobile, AI & Product QA
+
+<table>
+<tr>
+<th>Project</th>
+<th>Platform</th>
+<th>Testing Areas</th>
+</tr>
+
+<tr>
+<td><b>🎟️ Guest Pass</b></td>
+<td>Android Mobile</td>
+<td>Functional · API/Error Validation · Notifications · Pass Purchase</td>
+</tr>
+
+<tr>
+<td><b>🏋️ Gym Management</b></td>
+<td>Mobile App</td>
+<td>Workflows · UI · Functional · Regression · Device Testing</td>
+</tr>
+
+<tr>
+<td><b>🔥 Firebase Mobile App</b></td>
+<td>Mobile / Backend</td>
+<td>Authentication · Database · Backend Integration · Mobile UI</td>
+</tr>
+
+<tr>
+<td><b>🤖 Zanderio AI</b></td>
+<td>Web / AI</td>
+<td>AI Agent Workflows · API · Functional · UI/UX · Edge Cases</td>
+</tr>
+
+<tr>
+<td><b>🏠 Hommeze AI</b></td>
+<td>Web / Mobile</td>
+<td>Functional · UI/UX · Responsive · Workflow Testing</td>
+</tr>
+
+<tr>
+<td><b>🛒 E-commerce Platforms</b></td>
+<td>Web / Shopify</td>
+<td>Products · Cart · Checkout · Payments · Responsive Testing</td>
+</tr>
+
+</table>
 
 ---
 
 # 🛠️ Technical Stack
 
-### Testing
+<div align="center">
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0D1117?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-0D1117?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-0D1117?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-0D1117?style=for-the-badge)
-![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-0D1117?style=for-the-badge)
-![UI Testing](https://img.shields.io/badge/UI_Testing-0D1117?style=for-the-badge)
+### 🧪 QA & Automation
 
-### Automation
+<img src="https://skillicons.dev/icons?i=playwright,cypress,js,nodejs" />
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Maestro](https://img.shields.io/badge/Maestro-6C47FF?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<br/><br/>
 
-### API & Performance
+### 🔌 API & Performance
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postman" />
 
-### Tools
+<br/>
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Validation-0B7285?style=for-the-badge"/>
 
-### Database & Web
+<br/><br/>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🔧 QA & Collaboration Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,jira,vscode,androidstudio" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maestro-6C47FF?style=for-the-badge"/>
+
+<br/><br/>
+
+### 💻 Web & Database
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
+
+</div>
 
 ---
 
-# 🔄 QA Process
+# 🔍 What I Test
+
+<table>
+<tr>
+<td>
+
+### 🔐 Authentication
+
+Login  
+Registration  
+OTP  
+Password Reset  
+2FA  
+Authorization  
+Session Handling
+
+</td>
+
+<td>
+
+### 💳 Financial Flows
+
+Payments  
+Refunds  
+KYC  
+Transactions  
+Payment Validation  
+Account Balances
+
+</td>
+
+<td>
+
+### 📈 Trading Workflows
+
+Challenges  
+Trading Rules  
+Risk Monitor  
+Drawdown  
+Accounts  
+Payout Workflows
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧪 Functional QA
+
+Positive Testing  
+Negative Testing  
+Boundary Testing  
+Regression  
+Smoke  
+Sanity
+
+</td>
+
+<td>
+
+### 📱 Mobile QA
+
+Android  
+Emulators  
+Navigation  
+Notifications  
+API Integration  
+Device Compatibility
+
+</td>
+
+<td>
+
+### 🎨 UI/UX QA
+
+Figma Comparison  
+Spacing  
+Typography  
+Responsive Layout  
+Forms  
+Accessibility
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔄 QA Engineering Workflow
+
+<div align="center">
 
 ```text
-Requirement Analysis
-        ↓
-Test Planning
-        ↓
-Test Case Design
-        ↓
-Test Execution
-        ↓
-Bug Identification
-        ↓
-Bug Reporting
-        ↓
-Developer Fix
-        ↓
-Retesting
-        ↓
-Regression Testing
-        ↓
-Release Validation
+┌─────────────────────┐
+│ Requirement Analysis│
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Test Planning     │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│  Test Case Design   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Test Execution    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│  Bug Identification │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Bug Reporting     │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    Developer Fix    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│      Retesting      │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Regression Testing  │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Release Validation  │
+└─────────────────────┘
