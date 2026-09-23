@@ -12,8 +12,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/⭐_QA_ENGINEER-FFD700?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🏆_2%2B_YEARS-TRUST-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⭐_TOP_RATED-QA_ENGINEER-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🏆_2%2B_YEARS-TRUSTED_QA-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/✅_AVAILABLE-FOR_HIRE-00FFAA?style=for-the-badge&labelColor=0D1117"/>
 
 <br><br>
@@ -45,7 +45,10 @@
 <!--                     PROFESSIONAL PROFILE                   -->
 <!-- ========================================================= -->
 
-<h2 align="center">👨‍💻 Professional Profile</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=PROFESSIONAL%20PROFILE&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 ### Hi, I'm Muhammad Salman 👋
 
@@ -82,7 +85,10 @@ I have worked across **Trading & FinTech platforms, AI applications, E-Commerce,
 <!--                 CORE SPECIALIZATIONS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">⚡ Core QA Specializations</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=CORE%20QA%20SPECIALIZATIONS&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <table align="center" width="100%">
 <tr>
@@ -103,7 +109,10 @@ I have worked across **Trading & FinTech platforms, AI applications, E-Commerce,
 <!--                  TRADING & FINTECH                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">💹 Trading & FinTech QA</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=TRADING%20%26%20FINTECH%20QA&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <p align="center"><b>Real-world QA across financial, trading and prop-firm platforms</b></p>
 
@@ -125,7 +134,10 @@ I have worked across **Trading & FinTech platforms, AI applications, E-Commerce,
 <!--                 MOBILE / AI / PRODUCT                     -->
 <!-- ========================================================= -->
 
-<h2 align="center">📱 Mobile, AI & Product QA</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=MOBILE%2C%20AI%20%26%20PRODUCT%20QA&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 | 📦 Project | Platform | 🔍 Testing Focus |
 |:---|:---|:---|
@@ -142,7 +154,10 @@ I have worked across **Trading & FinTech platforms, AI applications, E-Commerce,
 <!--                    TECHNICAL STACK                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ Technical Stack</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=TECHNICAL%20STACK&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <h3 align="center">🧪 QA & Automation</h3>
 <div align="center">
@@ -197,7 +212,10 @@ I have worked across **Trading & FinTech platforms, AI applications, E-Commerce,
 <!--                  SECURITY FOCUSED QA                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔐 Security-Focused QA</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=SECURITY-FOCUSED%20QA&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 **🔑 Authentication & Access**
 Login • Signup • Password Policies • OTP • 2FA • Forgot Password • Session Validation • Role-based Access • Authorization • Account Lockout • Input Validation
@@ -211,7 +229,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                       WHAT I TEST                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔍 What I Test</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=WHAT%20I%20TEST&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <table align="center" width="100%">
 <tr>
@@ -232,7 +253,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                  QA ENGINEERING PROCESS                   -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔄 QA Engineering Process</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=QA%20ENGINEERING%20PROCESS&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=35&lines=Requirements+%E2%86%92+Test+Planning+%E2%86%92+Test+Execution;Test+Execution+%E2%86%92+Bug+Reporting+%E2%86%92+Developer+Fix;Developer+Fix+%E2%86%92+Retesting+%E2%86%92+Regression+%E2%86%92+Release" />
@@ -246,7 +270,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                   QUALITY MINDSET                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧠 Quality Engineering Mindset</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=QUALITY%20ENGINEERING%20MINDSET&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=00FFAA&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Quality+is+more+than+finding+bugs.;Understand+%E2%86%92+Test+%E2%86%92+Break+%E2%86%92+Validate+%E2%86%92+Improve;Find+defects+before+users+do.;Build+confidence+before+release." />
@@ -269,7 +296,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 
@@ -296,7 +326,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                   CURRENT FOCUS                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 Currently Focused On</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:00D9FF&text=CURRENTLY%20FOCUSED%20ON&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=40&lines=Advanced+QA+%7C+Test+Design+%7C+Defect+Analysis;Playwright+%7C+JavaScript+%7C+Automation;Postman+%7C+Newman+%7C+API+Testing;JMeter+%7C+Performance+Testing;Security-Focused+Application+Testing" />
@@ -308,7 +341,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                FREELANCE PLATFORMS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">💼 Freelance & Professional Platforms</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:FFD700&text=FREELANCE%20%26%20PROFESSIONAL%20PLATFORMS&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 
@@ -327,7 +363,10 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 <!--                     LET'S WORK                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🤝 Let's Work Together</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0D1117,100:FFD700&text=LET%27S%20WORK%20TOGETHER&fontSize=20&fontColor=ffffff&fontAlignY=65&desc=&reversal=false" width="100%"/>
+</div>
+
 
 <div align="center">
 
@@ -337,7 +376,12 @@ API Authorization • Token Validation • Access Control • Negative Testing �
 
 <a href="https://msalman-sqa.vercel.app"><img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117"/></a>
 <a href="https://www.linkedin.com/in/msalman-sqa"><img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&labelColor=0A66C2&color=0D1117"/></a>
-<a href="mailto:m.salmanofficial2293@gmail.com"><img src="https://img.shields.io/badge/✉️_CONTACT_ME-0D1117?style=for-the-badge&labelColor=D14836&color=0D1117"/></a>
+
+<br><br>
+
+<a href="mailto:m.salmanofficial2293@gmail.com">
+<img src="https://img.shields.io/badge/👑_VIP_CONTACT-EMAIL_ME_NOW-FFD700?style=for-the-badge&labelColor=0D1117" width="320"/>
+</a>
 
 <br><br>
 
