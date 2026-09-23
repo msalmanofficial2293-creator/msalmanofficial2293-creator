@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/⭐_TOP_RATED-QA_ENGINEER-FFD700?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⭐_QA_ENGINEER-FFD700?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/🏆_2%2B_YEARS-TRUSTED_QA-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/✅_AVAILABLE-FOR_HIRE-00FFAA?style=for-the-badge&labelColor=0D1117"/>
 
